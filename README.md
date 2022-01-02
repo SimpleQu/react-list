@@ -1,2 +1,2 @@
 # react-list
- schema form antd list
+ schema for antd list
