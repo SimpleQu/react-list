@@ -1,0 +1,6 @@
+tsconfig.json
+es/**/*
+lib/**/*
+dist
+node_modules
+**/*.d.ts
